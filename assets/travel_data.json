@@ -1,0 +1,115 @@
+{
+  "countries": [
+    {
+      "name": "France",
+      "capital": "Paris",
+      "flagUrl": "https://flagcdn.com/w320/fr.png",
+      "cities": [
+        {
+          "name": "Paris",
+          "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFyaXN8ZW58MHx8MHx8fDA%3D",
+          "activities": [
+            {
+              "name": "Eiffel Tower Tour",
+              "description": "Visit the iconic Eiffel Tower",
+              "imageUrl": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWlmZmVsJTIwdG93ZXJ8ZW58MHx8MHx8fDA%3D",
+              "price": 25.0
+            },
+            {
+              "name": "Louvre Museum Visit",
+              "description": "Explore world-famous art at the Louvre",
+              "imageUrl": "https://images.unsplash.com/photo-1565099824688-e93eb20fe622?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG91dnJlfGVufDB8fDB8fHww",
+              "price": 17.0
+            }
+          ]
+        },
+        {
+          "name": "Nice",
+          "imageUrl": "https://images.unsplash.com/photo-1491166617655-0723a0999cfc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmljZSUyMGZyYW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+          "activities": [
+            {
+              "name": "Promenade des Anglais",
+              "description": "Stroll along the famous Promenade des Anglais",
+              "imageUrl": "https://images.unsplash.com/photo-1533156430276-a13c4e33a4c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvbWVuYWRlJTIwZGVzJTIwYW5nbGFpc3xlbnwwfHwwfHx8MA%3D%3D",
+              "price": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "flagUrl": "https://flagcdn.com/w320/jp.png",
+      "cities": [
+        {
+          "name": "Tokyo",
+          "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dG9reW98ZW58MHx8MHx8fDA%3D",
+          "activities": [
+            {
+              "name": "Tokyo Skytree Visit",
+              "description": "Experience breathtaking views from Tokyo Skytree",
+              "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dG9reW8lMjBza3l0cmVlfGVufDB8fDB8fHww",
+              "price": 20.0
+            },
+            {
+              "name": "Tsukiji Outer Market Tour",
+              "description": "Explore the famous Tsukiji Outer Market",
+              "imageUrl": "https://images.unsplash.com/photo-1545288484-c29a4d5263c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHN1a2lqaSUyMG1hcmtldHxlbnwwfHwwfHx8MA%3D%3D",
+              "price": 35.0
+            }
+          ]
+        },
+        {
+          "name": "Kyoto",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a3lvdG98ZW58MHx8MHx8fDA%3D",
+          "activities": [
+            {
+              "name": "Fushimi Inari Shrine Visit",
+              "description": "Walk through the iconic torii gates",
+              "imageUrl": "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVzaGltaSUyMGluYXJpfGVufDB8fDB8fHww",
+              "price": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "capital": "Rome",
+      "flagUrl": "https://flagcdn.com/w320/it.png",
+      "cities": [
+        {
+          "name": "Rome",
+          "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9tZXxlbnwwfHwwfHx8MA%3D%3D",
+          "activities": [
+            {
+              "name": "Colosseum Tour",
+              "description": "Explore the ancient Roman Colosseum",
+              "imageUrl": "https://images.unsplash.com/photo-1552432552-07e3d4427a4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3NzZXVtfGVufDB8fDB8fHww",
+              "price": 16.0
+            },
+            {
+              "name": "Vatican Museums and Sistine Chapel",
+              "description": "Visit the world-renowned Vatican Museums",
+              "imageUrl": "https://images.unsplash.com/photo-1591289009723-aef022432ff5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmF0aWNhbiUyMG11c2V1bXxlbnwwfHwwfHx8MA%3D%3D",
+              "price": 21.0
+            }
+          ]
+        },
+        {
+          "name": "Venice",
+          "imageUrl": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmVuaWNlfGVufDB8fDB8fHww",
+          "activities": [
+            {
+              "name": "Gondola Ride",
+              "description": "Experience Venice from its famous canals",
+              "imageUrl": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29uZG9sYXxlbnwwfHwwfHx8MA%3D%3D",
+              "price": 80.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
